@@ -1,4 +1,4 @@
-# useBroadcast
+# 📡 useBroadcast
 
 This is a React webhook that lets you keep two browser tabs / windows in sync.
 Behind the scenes it uses the [Broadcast Channel API](1) to send messages
@@ -8,7 +8,7 @@ window or tab they're in.
 
 ## Example
 
-```
+```javascript
 import { useBroadcast } from 'use-broadcast';
 
 export const MyComponent = () => {
