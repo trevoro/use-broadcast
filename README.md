@@ -6,6 +6,8 @@ between instances. This way you can take action in one tab and have the state
 automatically shared with other instances of your component regardless of which
 window or tab they're in. 
 
+![Demo](https://github.com/trevoro/use-broadcast/blob/demo/doc/demo.gif)
+
 ## Example
 
 ```javascript
