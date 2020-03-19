@@ -1,0 +1,19 @@
+{
+  "name": "use-broadcast",
+  "version": "0.1.0",
+  "description": "easily keep multiple tabs in sync using broadcast channels",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Trevor Orsztynowicz",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://http://github.com/trevoro/use-broadcast"
+  },
+  "homepage": "https://github.com/trevoro/use-broadcast/issues",
+  "peerDependencies": {
+    "react": ">=16.8.0"
+  }
+}
