@@ -1,6 +1,6 @@
 # 📡 useBroadcast
 
-This is a React webhook that lets you keep two browser tabs / windows in sync.
+This is a React hook that lets you keep two browser tabs / windows in sync.
 Behind the scenes it uses the [Broadcast Channel API](1) to send messages
 between instances. This way you can take action in one tab and have the state
 automatically shared with other instances of your component regardless of which
