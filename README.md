@@ -1,7 +1,7 @@
 # 📡 useBroadcast
 
 This is a React hook that lets you keep two browser tabs / windows in sync.
-Behind the scenes it uses the [Broadcast Channel API](1) to send messages
+Behind the scenes it uses the [Broadcast Channel API][1] to send messages
 between instances. This way you can take action in one tab and have the state
 automatically shared with other instances of your component regardless of which
 window or tab they're in. 
@@ -29,4 +29,4 @@ export const MyComponent = () => {
 }
 ```
 
-[1]: [https://developer.mozilla.org/en-US/docs/Web/API/Broadcast_Channel_API
+[1]: https://developer.mozilla.org/en-US/docs/Web/API/Broadcast_Channel_API
